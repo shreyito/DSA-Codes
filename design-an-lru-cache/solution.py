@@ -2,7 +2,7 @@
 import collections
  
 class Node:
-    """
+    """ 
     Represents a node in the doubly linked list.
     Each node stores its key, value, and pointers to the previous and next nodes.
     Storing the key in the node is crucial for O(1) deletion from the hash map
