@@ -1,6 +1,6 @@
 ```python
 import collections
-  
+   
 class Node:
     """ 
     Represents a node in the doubly linked list.
