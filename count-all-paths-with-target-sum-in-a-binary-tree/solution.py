@@ -13,7 +13,7 @@ class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val
         self.left = left
-        self.right = right
+        self.right = right 
 
 # Helper function to build a binary tree from a list (level-order traversal).
 # This is useful for creating test cases easily.
