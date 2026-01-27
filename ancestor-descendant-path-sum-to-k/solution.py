@@ -1,7 +1,7 @@
 ```python
 import collections
 
-class Node:
+class Node: 
     """
     Represents a node in a binary tree.
     """
