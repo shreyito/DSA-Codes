@@ -1,5 +1,5 @@
 ```python
-import  collections 
+import   collections 
  
 # Problem Description:
 # Given the root of a binary tree and an integer targetSum, return the number of paths where the sum of the
